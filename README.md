@@ -1,2 +1,2 @@
 # hello-world
-rememberig git
+remembering git
